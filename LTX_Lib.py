@@ -4,6 +4,7 @@ Created on Sat Apr 27 09:18:28 2019
 
 @author: ernesto.saraiva
 """
+amigos 2
 import numpy as np
 import pandas as pd
 import win32com.client
