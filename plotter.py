@@ -4,7 +4,7 @@ Created on Sat Apr 27 11:24:28 2019
 
 @author: ernesto.saraiva
 """
-2
+
 from LTX_Lib import *
 import numpy as np
 import pandas as pd
